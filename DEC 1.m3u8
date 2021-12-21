@@ -1,14 +1,7 @@
 #EXTM3U
-#EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml" 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/unifitv.xml" 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml"
-
-
-
- 
-
-
-
+#EXTM3U url-epg="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml" 
+#EXTM3U url-epg="https://raw.githubusercontent.com/weareblahs/epg/master/unifitv.xml" 
+#EXTM3U url-epg="https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml"
 
 
 #EXTINF:-1    tvg-logo="https://myklikstatic.secureswiftcontent.com/image/PlayerLogo-TV1-May21-JPG.jpg",TV 1
