@@ -1,4 +1,4 @@
-#EXTM3U
+
 
 
 
@@ -47836,29 +47836,9 @@ http://srv22.nf21.net:80/files/10-2018-10-27-3639bebebbcb9d7b82747ac94911e8fb.mp
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/8m4rIEstsOV3uEtussUsejbg1id.jpg" group-title="VOD BARAT",Mountain King
 https://www.dropbox.com/s/6vs7vxjsgd3iibh/wild.king.2020.mkv?dl=1
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJiNzExYjgtYWY5Yy00MGIyLWFjM2MtMzZmYTIyZWFiNGVmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="VOD BARAT",Disturbing the Peace
-https://www.googleapis.com/drive/v3/files/1HPtYkaa0sE-WmyzZS3YJdc4EYJI6C4H1?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f9/Spider-Man_Homecoming_poster.jpg" group-title="VOD BARAT",Spider-Man: Homecoming
-https://cdn.zaccar.ru//movies/MCU/16-Spider-Man%20Homecoming%20(2017)%20%5BBluRay%5D%20%5B720p%5D%20%5BYTS.LT%5D.mp4
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ab/16/85/ab16850d88d1b93369014ad9d4cdd6af.jpg" group-title="VOD BARAT",Rambo: Last Blood
-https://cdn.zaccar.ru//movies/12-03-2019/rambo.last.blood.2019.1080p.bluray.x264-yts.lt.mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Bloodshot_-_official_film_poster.jpeg" group-title="VOD BARAT",Rambo: Bloodshot
 https://www.dropbox.com/s/zivk90uakhkpeiy/Bloodshot.2020.720p.WEBDL.x264.GalaxyRG.mp4?dl=1
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/37/Captain_America_The_First_Avenger_poster.jpg" group-title="VOD BARAT",Captain America: The First Avenger
-https://cdn.zaccar.ru//movies/MCU/02-Captain%20America%20The%20First%20Avenger%20(2011)%20%5BBluRay%5D%20%5B720p%5D%20%5BYTS.LT%5D.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/Captain_America_The_Winter_Soldier_poster.jpg" group-title="VOD BARAT",Captain America: The Winter Soldier
-https://cdn.zaccar.ru//movies/MCU/11-Captain%20America%20The%20Winter%20Soldier%20(2014)%20%5BBluRay%5D%20%5B720p%5D%20%5BYTS.LT%5D.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_.jpg" group-title="VOD BARAT",Captain America: Civil War
-https://cdn.zaccar.ru//movies/MCU/14-Captain%20America%20Civil%20War%20(2016)%20%5BBluRay%5D%20%5B720p%5D%20%5BYTS.LT%5D.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Charlie%27s_Angels_%28Official_2019_Film_Poster%29.png" group-title="VOD BARAT",Charlie’s Angels
-https://cdn.zaccar.ru//movies/01-10-2020/Charlies.Angel.mp4
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/812cwNk1YIL._SL1500_.jpg" group-title="VOD BARAT",Fast & Furious Presents: Hobbs & Shaw 
 https://www.dropbox.com/s/k4qimz4r99ab1kg/Fast.and.Furious.Presents.Hobbs.and.Shaw.2019.720p.Bluray-PusatFilm21.com.mp4?dl=1
@@ -47875,11 +47855,6 @@ https://www.dropbox.com/s/bckz0xk59nndoyh/X.Men.Dark.Phoenix.2019.720p.Bluray-Pu
 #EXTINF:-1 tvg-logo="https://d2j05qp2jb3mfw.cloudfront.net/film-artwork/5650/_filmArtworkLarge/Elsewhere_Comp25.jpg?mtime=20191009180655&focal=none&tmtime=20201106231446" group-title="VOD BARAT",Elsewhere
 https://www.dropbox.com/s/k2dn9cqnp2pgm48/Elsewhere%20%282019%29.mp4?dl=1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Conjuring_2.jpg/220px-Conjuring_2.jpg" group-title="VOD BARAT",THE CONJURING 2
-https://www.googleapis.com/drive/v3/files/1f5YFCHuFFFiVIHrqF2Jp-cmRh6bW2SYP?alt=media&key=AIzaSyBzLcrOuNX5ztVspTiSnCrboTal8XUA4O8
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91P1wWqX63L._SL1500_.jpg" group-title="VOD BARAT",THOR
-https://cdn.zaccar.ru//movies/MCU/06-Thor%20(2011)%20%5BBluRay%5D%20%5B720p%5D%20%5BYTS.LT%5D.mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Eclipse_Theatrical_One-Sheet.jpg" group-title="VOD BARAT",ECLIPSE 
 https://lh3.googleusercontent.com/-g8REJ-ZF-m-oeQaLKzTOb_0vbfgTB63y-T3iMHfMaulmMjHkIXQ6Ui0iZc5Tkl_ze1-OgNb-ZP23iFTEQ=m22
@@ -47890,8 +47865,6 @@ https://www.dropbox.com/s/7c8mzu4hxuyjua3/Final%20Kill.mkv?dl=1
 #EXTINF:-1 group-title="VOD BARAT",Frozen 
 https://lh3.googleusercontent.com/8OLNPmNiqm3XgItbuPTbq2ythbAsHoP8aWDYM9G7Gxy8-7nFzVFdXUSwd0qeRPYe_8XvyAw_ExSgRbMH_g=m22
 
-#EXTINF:-1 group-title="VOD BARAT",Frozen II 
-https://lh3.googleusercontent.com/GZHehDjuIB4vJdnV0MWyiOwe6n875bjkqgYpnLUMnVYXm5tUrvOdPCDtYBw6mRFbUf6eK810qA2JHLmOGQ=m22
 
 #EXTINF:-1 group-title="VOD BARAT",Hotel Transylvania 
 https://lh3.googleusercontent.com/FUX6gE6s-TXiQEXywhaEfjM_rPaDR4-BT4aIvFgA609Urp6rA0Na9z835rCPCp2j46jZISj8xaxx6N1h8A=m22
@@ -47959,34 +47932,18 @@ https://cdn3ii.diebutx.com/own2hls/2020/7f50438d6f69f10b7a8dae9fa285befb/540p/in
 https://cdn2ii.diebutx.com/own2hls/2020/361d659195519a8ba991b1bb49843180/540p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD BARAT",Action  Nobody (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/6e13167f4c5fb6e47d9dd7380b3776b5/360p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD BARAT",Drama  My True Fairytale (2021)
-https://cdn2ii.diebutx.com/own2hls/2020/6c67e8f8d3ce142424c126fbab8bfa36/540p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD BARAT",Horror  Honeydew (2021)
-https://cdn2ii.diebutx.com/own2hls/2020/88e23e661ffcc09379e479f15d4fe49a/540p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD BARAT",Horror  Held (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/3524d392bd8a2d5d8e6a5ae401c03d6b/540p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD BARAT",Action  The Marksman (2021)
-https://cdn2ii.diebutx.com/own2hls/2020/2bcc3d4ba624b78ee5efbdf192445b35/540p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD BARAT",Action  Lazarus (2021)
-https://cdn2ii.diebutx.com/own2hls/2020/09c083af59d53871ecc6daa8c015a641/540p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD BARAT",Action  A Writer's Odyssey (2021)
-https://cdn2ii.diebutx.com/own2hls/2020/996ee5e9d1e200255fb5565ba5f1b1b5/540p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD BARAT",Action  Thunder Force (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/769174d6904c3acda2034ecedd2179dd/540p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD BARAT",Horror  The Oak Room (2021)
 https://cdn2ii.diebutx.com/own2hls/2020/71f856f0db9aa8d8f0f819ed1bbe955e/540p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD BARAT",Horror  Dawn of the Beast (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/dbd2e455c06d645639621c3188255832/540p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD BARAT",Action  Assault on VA-33 (2021)
-https://cdn2ii.diebutx.com/own2hls/2020/aacc3c9262fbb8da9ff992c66a73f062/540p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD BARAT",Adventure  Hero Dog: The Journey Home (2021)
-https://cdn2ii.diebutx.com/own2hls/2020/3043155549bcb28a7b2dbdc28f757c82/540p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD BARAT",Horror  American Liar (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/167f6a2fe5cea631ff46c0deb9704ad5/540p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD BARAT",Drama  The Arbors (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/41f907567a35e8da06f821d48407336a/360p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD BARAT",Crime  One and the Same (2021)
-https://cdn2ii.diebutx.com/own2hls/2020/dec3d11a485cb4e3b2d32a8d85b7056c/540p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD BARAT",Horror  The Toll (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/7d78072209cbbf5b11783145e5ba86cb/540p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD BARAT",Horror The Seventh Day (2021)
@@ -48011,9 +47968,6 @@ https://lh3.googleusercontent.com/LS-IBxy2s4Y3oblmK8hydlYhefIIIcu5l-g6PlAtQP4lbJ
 
 #EXTINF:-1 group-title="VOD MANDARIN",Shaolin Soccer 
 https://lh3.googleusercontent.com/UDEPk7otEZHW0Ukv4GvmAOozp1ml0KMJq8Z-CbniwVLBEdR67h6z-d92YiBYXtO6Fup90QVsY5-HSLz4hA=m22
-
-#EXTINF:-1 group-title="VOD KOREA",Train to Busan
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=25926884475c7c81d3f9634fe15662d899c04773e83da931f64885fdf14061a8
 
 #EXTINF:-1 group-title="VOD KOREA",Parasite 
 https://lh3.googleusercontent.com/8fl4Cwk3AbDnjezfUqAeKQG43mUQ6p2oSFglkA_fOOepcgybTerTAve89Z2i5CLcfGSvRA5wwzYCiRKDQQ=m22
@@ -48055,8 +48009,6 @@ https://www.dropbox.com/s/t2i5h7kpp2yf01j/Foxtrot.Six.2019.HDTV.720p.PF21.Net.mk
 https://www.dropbox.com/s/rcli4iwax3ig1q5/Ghost.Writer.2019.WEB-DL.720p-PusatFilm21.com.mp4?dl=1
 
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDAyYTk2ZGMtNTYyZC00NjNiLThjNzktM2IxNzQyNWIwNjljXkEyXkFqcGdeQXVyMzYzOTYxNzM@._V1_.jpg" group-title="VOD INDO",Mata Batin 2
-https://cdn.zaccar.ru//movies/01-10-2020/Mata.Batin.2.(2019).mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Mulan_%282020_film%29_poster.jpg" group-title="VOD INDO",MULAN 
 http://admin.nf21.net/go/files/17052
@@ -48076,9 +48028,6 @@ http://srv21.nf21.net:80/files/15-2018-10-13-820280bd87facc3cb2ea0cb5297764c0.mk
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/My_Stupid_Boos_Poster.jpg/220px-My_Stupid_Boos_Poster.jpg" group-title="VOD INDO", My Stupid Bos 
 http://srv18.nf21.net:80/files/15-2018-08-03-ce61122e665966846c98cf23645c9b83.mp4
 
-#EXTINF:-1 group-title="VOD INDO",My Stupid Boss 2 
-https://lh3.googleusercontent.com/MJxDpSbZguWY_oX0O2jpJ08ywaNqfBxcSSKjQldRS5w5sSfhsXNrxpRmLKSmUwtDebsg8zmSUv2QNim0tg=m22
-
 #EXTINF:-1 tvg-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1590722248/tjcqr50ulj2bclmrmzfk.jpg" group-title="VOD INDO", Flight 555 
 http://srv19.nf21.net:80/files/15-2018-08-14-f0ddc7cdffd608547912ad3a1b33056f.mp4
 
@@ -48093,58 +48042,5 @@ http://srv18.nf21.net:80/files/10-2018-08-06-7dae19687c0d57fabf80cda51736f30d.mp
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8d/Galih_dan_Ratna.jpg" group-title="VOD INDO", Galih Dan Ratna 
 http://srv18.nf21.net:80/files/15-2018-08-07-cad79a652ba7fd037ca11444b3bd3f5f.mp4
-
-#EXTINF:-1 group-title="VOD INDO",Warkop DKI - Bebas Aturan Main
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=887ea2ef509f2ed24ec267a962d472b199c04773e83da931f64885fdf14061a8
-
-#EXTINF:-1 group-title="VOD INDO",Warkop DKI - Godain Kita Dong
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=189cc63cc475284f33a6afba82f0588499c04773e83da931f64885fdf14061a8
-
-#EXTINF:-1 group-title="VOD INDO",Warkop DKI - Itu Bisa Diatur
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=c35671483bc1050cce5f3c3d8b4187a399c04773e83da931f64885fdf14061a8
-
-#EXTINF:-1 group-title="VOD INDO",Warkop DKI - Malu Malu Mau
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=8f5b034fee44157caa1cf1cd007f5b2899c04773e83da931f64885fdf14061a8
-
-#EXTINF:-1 group-title="VOD INDO",Warkop DKI - Saya Suka Kamu Punya
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=71e58f95185800ae285c9860a287fa3c99c04773e83da931f64885fdf14061a8
-
-#EXTINF:-1 group-title="VOD INDO",Ada Apa Dengan Cinta (2002)
-https://lh3.googleusercontent.com/YTu4vVg4Cl1vRdeeFxLV33XkclKYHxnlbVcm49HN05BgKbx4EvEmh1PqDIMGTiAafXrmbIqH4Pic3gV4FQ=m22
-
-#EXTINF:-1 group-title="VOD INDO",Ada Apa Dengan Cinta 2 (2016)
-https://lh3.googleusercontent.com/YTu4vVg4Cl1vRdeeFxLV33XkclKYHxnlbVcm49HN05BgKbx4EvEmh1PqDIMGTiAafXrmbIqH4Pic3gV4FQ=m22
-
-#EXTINF:-1 group-title="VOD INDO",Kartini
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=915801e052298efdd705a0020597388799c04773e83da931f64885fdf14061a8
-
-#EXTINF:-1 group-title="VOD INDO",Sesuai Aplikasi
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=bfdfefef1f0500a0dbce0e8e8ec16a6099c04773e83da931f64885fdf14061a8
-
-#EXTINF:-1 group-title="VOD INDO",Soekarno
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=ad64133fc82b863784886188cfcec30599c04773e83da931f64885fdf14061a8
-
-#EXTINF:-1 group-title="VOD INDO",Susah Sinyal
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=950685268ad88e7d0f81aeb4476811ae99c04773e83da931f64885fdf14061a8
-
-#EXTINF:-1 group-title="VOD INDO",Dilan 1990 
-https://lh3.googleusercontent.com/NSb9QLl2iVFm8XJ3im0QftpPCirRvvaxtD6rdqnBx3npfKxIcOcdVDNupiZl19P5yCyo8_BcyO11y_Yzyg=m22
-
-#EXTINF:-1 group-title="VOD INDO",Dilan 1991 
-https://lh3.googleusercontent.com/i7g3xzbbl23ftxhbBGJqjfFkQg-M2iWxzdJARAv2i-zdjAwBDIicIWt6v6hqqTPVu6SfsJ-l0eVwbFVCzQ=m22
-
-#EXTINF:-1 group-title="VOD INDO",Kapal Goyang Kapten 
-https://lh3.googleusercontent.com/fqkgjzYRNfVIgDo1Kt3Ls6Z3aa1OZ5_N9phHY0CdX_BdvA4gg_Cst2GabbpAXWvi_cbwy3hykZmyRD6yoA=m22
-
-#EXTINF:-1 group-title="VOD INDO",Suzana : Burried Alive 
-https://lh3.googleusercontent.com/L1TQR6prw9IuSX77AzFPgtSndl0UeLav-7Bd7gmPcV4d90zlOzr9_MxLtKgRxYXoR6kiBLA0jHDIK0Fm8g=m22
-
-#EXTINF:-1 group-title="VOD INDO",The Raid : Redemption 
-https://lh3.googleusercontent.com/BUlYytKrg8rX0ixoM8Ogop3EzlePZv05mQkZ20PzkPTeeDdpUDNiONyTSdn6yeUjxnLUZSjql7JIWfkIiw=m22
-
-#EXTINF:-1 group-title="VOD INDO",The Raid 2 : Berandal 
-https://lh3.googleusercontent.com/r1kzl43Tk-EUmb6VFOu7fCYLTrL6kmv9C_rsME-DXxlpqz7TTS0wTEMsN9ZvS5eqQjez4_COfLBDSh2m8A=m22
-
-
 
 
