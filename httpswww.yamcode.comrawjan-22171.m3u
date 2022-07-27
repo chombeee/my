@@ -1,0 +1,587 @@
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml"
+
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/rtmklik.xml"
+
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/mytv.xml"
+
+#EXTM3U x-tvg-url="https://bit.ly/aqfadtvepg"
+
+#EXTM3U x-tvg-url="https://epg.kampung.xyz/"
+
+#EXTM3U x-tvg-url="https://epg.kampung.xyz/IPTV.xml.gz"
+
+#EXTM3U x-tvg-url="https://github.com/apollo2000/TVGuide/raw/master/utc.xml.gz"
+
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/vidio.com.guide.xml"
+
+#EXTM3U x-tvg-url="http://tvku.live:8888/xmltv.php?username=epg&password=epg"
+
+#EXTM3U x-tvg-url="https://macan.tv/xmltv.php?username=epg&password=epg"
+
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml"
+
+
+
+
+
+#EXTINF:-1 tvg-chno="1" tvg-id="tv1" tvg-name="TV1" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/PlayerLogo-TV1-May21-JPG.jpg" parent-code="https://rtmklik.rtm.gov.my" parent-code="",TV 1
+https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+
+
+#EXTINF:-1 tvg-chno="2" tvg-id="tv2" tvg-name="tv2" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/PlayerLogo-TV2-May2021.png" parent-code="https://rtmklik.rtm.gov.my" parent-code="",TV 2
+https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+
+
+#EXTINF:-1 tvg-chno="3" tvg-id="tv3" tvg-name="tv3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" parent-code="https://www.dailymotion.com " parent-code="", TV3 
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="4" tvg-id="ntv7" tvg-name="didiktv" tvg-logo="https://didik.tv/images/logotv2.png" parent-code="https://dailymotion.com" parent-code="",DidikTV KPM
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
+
+
+
+
+#EXTINF:-1 tvg-chno="9" tvg-id="tv9" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149.png" parent-code="https://dailymotion.com" parent-code="",TV9
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="6" tvg-id="tv6" tvg-logo="https://mediahomes.github.io/logos/tv6.png" parent-code="https://rtmklik.rtm.gov.my" parent-code="",TV6
+https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+
+
+
+#EXTINF:-1 tvg-chno="7" tvg-id="drama sangat" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg" parent-code="https://dailymotion.com" parent-code="",Drama Sangat
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
+
+
+#EXTINF:-1 tvg-chno="8" tvg-id="okey" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotvokay.jpg" parent-code="https://rtmklik.rtm.gov.my" parent-code="",Tv Okey
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+
+
+#EXTINF:-1 tvg-id="awani" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428094_ico.png" parent-code="awanitv.akamaized.net" parent-code="", Astro Awani 
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="berita rtm" tvg-name="beritartm" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" parent-code="https://rtmklik.rtm.gov.my" parent-code="",Berita RTM
+https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+
+#EXTINF:-1 tvg-id="awesome tv" parent-code="",awesome tv
+http://139.99.90.11:80/live/1159189903/4938860969/175.ts 
+
+#EXTINF:-1 tvg-id="alhijrah" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png" parent-code="",TV AlHijrah
+https://my.odtv.uk:443/live/9486331171/7860879594/24.ts 
+
+
+
+#EXTINF:-1 tvg-id="astrooasis.my" tvg-name="ASTRO Oasis HD" tvg-logo="http://tvmalaysia.cc:80/images/1025207519df6b585f285d5324f5e5c1.png" parent-code="",ASTRO Oasis HD
+https://nonton.site:8443/IGRKg9OA4w/hshjs45678khtsdj/37334
+
+
+#EXTINF:-1 tvg-id="astro ria" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717a" parent-code="", Astro Ria
+http://139.99.90.11:80/live/1159189903/4938860969/13.ts 
+
+
+
+#EXTINF:-1 tvg-id="astrowarna.my" tvg-name="ASTRO Warna HD" tvg-logo="http://tvmalaysia.cc:80/images/5a747afe7e6d8f0963590d0c63ae9a5c.png" parent-code="",ASTRO Warna HD
+https://my.odtv.uk/live/9486331171/7860879594/18.ts 
+
+
+
+#EXTINF:-1 tvg-id="astro prima" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" parent-code="", Astro Prima HD
+http://139.99.90.11:80/live/1159189903/4938860969/16.ts 
+
+
+
+#EXTINF:-1 tvg-id="astro citra" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png" parent-code="", Astro Citra
+http://139.99.90.11/live/1159189903/4938860969/19.ts
+...........................................................
+..... chinese korea and japan....................................
+ ..................................................................
+ 
+
+ 
+
+#EXTINF:-1 tvg-id="SonyOneHD.MACAN" tvg-name="SonyOneHD.MACAN"  tvg-logo="https://cdn.macan.tv/img/sonyone.png", Sony One
+http://210.210.155.35/uq2663/h/h143/01.m3u8
+
+
+
+#EXTINF:-1 tvg-id="kbs world" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/kbs%20world.png" parent-code="", KBS World HD
+https://nonton.site:8443/IGRKg9OA4w/hshjs45678khtsdj/37369
+
+
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Ohkchannel.png" parent-code="", Oh!K HD
+https://nonton.site:8443/IGRKg9OA4w/hshjs45678khtsdj/37371
+
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/K_Plus_Asia_Logo.jpg/250px-K_Plus_Asia_Logo.jpg",Kplus
+#EXTVLCOPT:network-caching=10007777
+http://210.210.155.35/uq2663/h/h08/index.m3u8
+
+
+ ...............tvn........................
+
+
+
+#EXTINF:-1 tvg-id="TVNMovies.id" tvg-name="tVN Movies HD" tvg-logo="https://pbs.twimg.com/profile_images/805623069490364416/S08BM74i_400x400.jpg", tVN Movies
+http://210.210.155.35:80/dr9445/h/h21/01.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" , TVN 
+http://210.210.155.35:80/dr9445/h/h20/01.m3u8
+
+
+.......................tvn..............................
+
+
+#EXTINF:-1 tvg-id="GEMChannel.id" tvg-name="GEMChannel.id"  tvg-logo="https://cdn.macan.tv/img/gem.jpg", Sony GEM TV
+http://210.210.155.35/uq2663/h/h19/01.m3u8
+
+
+..................................
+...........keling .....................
+..............................
+
+#EXTINF:-1 ,Colors cineplex 
+
+https://nonton.site:8443/IGRKg9OA4w/hshjs45678khtsdj/37455
+
+#EXTINF:-1 tvg-id="" tvg-name="MY - BOLLYONE HD" tvg-logo="" , BOLLYONE HD
+https://nonton.site:8443/IGRKg9OA4w/hshjs45678khtsdj/37348
+...................
+....................................................................................................................................................
+ .............................
+ ............MOVIES SERIES............
+ ...............................
+ ....................................................................................................................................................
+#
+
+#EXTINF:-1 tvg-id="Galaxy.MACAN" tvg-name="Galaxy.MACAN"  tvg-logo="https://cdn.macan.tv/img/galaxy.jpg", Galaxy
+
+
+#EXTINF:-1 tvg-logo = "https://tma-live.s3.ap-south-1.amazonaws.com/medias/5b711288c7fbb343d4f4c331/1565809264187/87f589027d5620f2e5853709bde40098.png?dl=1", &Flix HD
+http://mvu03.wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF122678&password=8ZXDQCZR&stream=54975
+
+#EXTINF:-1 tvg-logo = https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg?dl=1", &Prive HDhttp://mvu03.wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF122678&password=8ZXDQCZR&stream=55158
+
+#EXTINF:-1 vg-logo = "https://tvserialcast.com/wp-content/uploads/2021/07/Sony_PIX.png?dl=1", Sony Pix HD
+http://webo.asia:80/play/5LB9kAR3p7Gs2VJ8vTg2Y26VfIZQaqBLBUTOsPyF_Hk/ts
+
+#EXTINF:-1 tvg-logo = "https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg?dl=1", Star movies Select
+http://webo.asia:80/play/5LB9kAR3p7Gs2VJ8vTg2Y6BdAIM-wkVZIOSBLTzTUMo/ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CVN0MSH/Star-Movies-1999.png", Star Movies HD 
+http://103.153.39.36:8000/play/a00v
+
+
+#EXTINF:-1 ,showcase movies 
+http://mykingtv.net:2082/streaming/clients_live.php?extension=rtmp&username=zeehanzgadget&password=abcd1234&stream=8409
+
+#EXTINF:-1 tvg-id="4fa60cf8c4f3dde5af9619f58cc81f32" tvg-name="Cinema world" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/cinema-world.png" ,Cinema world
+http://playlist.urfan.web.id/session/c358b1f4-6008-11ec-9eac-8615aefc501b/dr9445/h/h04/01.m3u8
+
+
+
+#EXTINF:-1 tvg-id="CINEMAX.MACAN" tvg-name="Cinemax" tvg-logo="https://i.ibb.co/MP8HWsS/sfb.png" ,Cinemax
+https://nonton.site:8443/IGRKg9OA4w/hshjs45678khtsdj/37375
+
+
+#EXTINF:-1 ,BOO
+http://mvu03.wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF122678&password=8ZXDQCZR&stream=1697
+
+
+
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" , THRILL 
+http://210.210.155.35:80/qwr9ew/s/s34/01.m3u8
+
+
+
+
+
+
+..............................................................
+
+............HBO....................
+
+
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" ,HBO HD
+
+
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" ,HBO HD
+https://nonton.site:8443/IGRKg9OA4w/hshjs45678khtsdj/210
+
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" ,HBO sd
+https://nonton.site:8443/IGRKg9OA4w/hshjs45678khtsdj/26595
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" ,HBO fHD
+https://nonton.site:8443/IGRKg9OA4w/hshjs45678khtsdj/1496
+
+#EXTINF:-1 tvg-id="HBOSignatureHD.MACAN" tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/zX9LRZd/BDZ.png" ,HBO Signature MY
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446380_ico.png", HBO Signature HD 
+https://tvlivehometv.xyz/RHS/hbo1.m3u8?channel=sig
+
+
+#EXTINF:-1 ,HBO Family FHD
+
+http://iptv.tvmalaysia.cc:80/271282/271282/7070
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png", HBO Family HD 
+https://tvlivehometv.xyz/RHS/hbo1.m3u8?channel=fam
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png", HBO Family USA 4K
+http://new-pro.tv:8080/4474494445842022/Nadim2022/70483
+
+
+
+
+#EXTINF:-1 ,Fox Family Movie
+http://urtv.cc:80/streaming/clients_live.php?extension=rtmp&username=jalan8&password=jalan8&stream=9027
+http://urtv.cc:80/streaming/clients_live.php?extension=rtmp&username=penang001&password=penang001&stream=9027
+
+
+
+
+..........................KIX......................
+#EXTINF:-1 tv-name="KIX" tvg-logo="https://lh4.googleusercontent.com/rEyGX_KF3Jg067QL_BjdzWqvtO8hg5KaEAjuQtVruTz_yxx2AHLyEQ2uJ9cSrOaN3SwmIX-EeqK4F9E3eQPylyHjrepnoElcRapfXNMbDT6O4hZgHs9poe0IADZUwZ2SAw=w1280", KIX 
+http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
+
+#EXTINF:-1 tv-name="KIX" tvg-logo="https://lh4.googleusercontent.com/rEyGX_KF3Jg067QL_BjdzWqvtO8hg5KaEAjuQtVruTz_yxx2AHLyEQ2uJ9cSrOaN3SwmIX-EeqK4F9E3eQPylyHjrepnoElcRapfXNMbDT6O4hZgHs9poe0IADZUwZ2SAw=w1280", KIX 
+http://210.210.155.35/session/ed9f63cc-0efa-11ec-8642-c81f66f89318/dr9445/h/h07/01.m3u8
+
+
+
+
+
+...........................................................
+
+...................fox...................................
+
+
+.....................................................
+......................................................
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro First 474 - Belaban Hidup" tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" ,Astro First 474 - Belaban Hidup
+
+EXTINF:-1 ,primetime
+http://my.odtv.uk/streaming/clients_live.php?extension=m3u8&username=1159189903&password=4938860969&stream=1726
+
+#EXTINF:-1 ,paramount
+http://mykingtv.net:2082/streaming/clients_live.php?extension=rtmp&username=zeehanzgadget&password=abcd1234&stream=8461
+#EXTINF:-1 ,Galaxy Premium
+
+
+ 
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/blue-ant-extreme-ca.png" ,Blue Ant Extreme
+http://210.210.155.35:80/dr9445/h/h15/01.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/blue-ant-entertainment-ca.png" ,BlueAnt Entertainment HD
+http://210.210.155.35:80/dr9445/h/h16/01.m3u8
+ 
+ 
+...............................................................
+
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" , AXN
+http://210.210.155.35:80/dr9445/h/h141/01.m3u8
+
+
+#EXTINF:-1 ,WARNER TV 
+http://urtv.cc:80/streaming/clients_live.php?extension=rtmp&username=penang001&password=penang001&stream=7072
+#EXTINF:-1 ,WARNER TV 
+http://my.odtv.uk/streaming/clients_live.php?extension=m3u8&username=1159189903&password=4938860969&stream=117
+
+#EXTINF:-1 ,SYFY
+http://mykingtv.net:2082/streaming/clients_live.php?extension=rtmp&username=zeehanzgadget&password=abcd1234&stream=9673
+
+#EXTINF:-1 tvg-id="" tvg-name="MY - TLC HD" tvg-logo="" ,TLC HD
+https://nonton.site:8443/IGRKg9OA4w/hshjs45678khtsdj/37410
+
+............AXN...............
+
+
+#EXTINF:-1 ,Lifetime FHD
+http://mykingtv.net:2082/streaming/clients_live.php?extension=rtmp&username=zeehanzgadget&password=abcd1234&stream=6997
+
+
+
+........................................................
+.....cartonn..............................................
+...........................................................
+
+#EXTINF:-1,tvg-logo=" jpeg.ly/T25L  " parent-code="",ASTRO Ceria HD
+ http://139.99.90.11:80/live/1159189903/4938860969/99.ts 
+ 
+
+
+#EXTINF:-1 ,Disney XD
+http://urtv.cc:80/streaming/clients_live.php?extension=rtmp&username=jalan8&password=jalan8&stream=7198
+http://urtv.cc:80/streaming/clients_live.php?extension=rtmp&username=penang001&password=penang001&stream=7198
+#EXTINF:-1 ,Disney Channel
+
+
+#EXTINF:-1 ,Disney Junior
+
+
+#EXTINF:-1 tvg-id="Nickelodeon.MACAN" tvg-name="Nickelodeon" tvg-logo="https://i.ibb.co/JsWTZhx/fz.png" ,Nickelodeon
+
+
+
+#EXTINF:-1 tvg-id="Boomerang.MACAN" tvg-name="Boomerang" tvg-logo="https://i.ibb.co/YbKLSR1/gtfj.png" parent-code="",Boomerang
+
+
+#EXTINF:-1 ,Dreamwork
+http://mykingtv.net:2082/streaming/clients_live.php?extension=rtmp&username=zeehanzgadget&password=abcd1234&stream=5290
+
+#EXTINF:-1      tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/330px-Cartoon_Network_2010_logo.svg.png" , CARTOON NTWK HD
+https://nonton.site:8443/IGRKg9OA4w/hshjs45678khtsdj/37403
+ 
+
+#EXTINF:-1 tvg-id="" tvg-name="MY - NICK JR" tvg-logo="" ,NICK JR
+https://nonton.site:8443/IGRKg9OA4w/hshjs45678khtsdj/37405
+
+#EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/hHCyN9t/ig.png" ,Cartoon Network
+
+
+
+
+
+#EXTINF:-1 tvg-id="Ani.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428081_ico.png" ,ANIMAX 
+http://210.210.155.35:80/dr9445/h/h144/01.m3u8
+
+
+#EXTINF:-1      tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" parent-code="",Aniplus
+http://210.210.155.35/dr9445/h/h02/01.m3u8?checkedby:iptvcat.com
+
+
+
+
+........................................
+.........DISCOVER..............................................................
+............................................
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MY - FOOD NTWK HD" tvg-logo="" , FOOD NTWK HD
+
+
+#EXTINF:-1 tvg-id="AsianFoodChannel.MACAN" tvg-name="AFC" tvg-logo="https://i.ibb.co/7RPffnd/sjt.png" ,ASIAN FOOD NETWORK FHD
+
+
+#EXTINF:-1 tvg-id="AsianFoodChannel.MACAN" tvg-name="AFC" tvg-logo="https://i.ibb.co/7RPffnd/sjt.png" ,ASIAN FOOD NETWORK
+https://nonton.site:8443/IGRKg9OA4w/hshjs45678khtsdj/37412
+      
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/DIY_Network_logo.svg/876px-DIY_Network_logo.svg.png" parent-code="",DIY Network HD
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3635
+
+#EXTINF:-1        tvg-logo="http://www.orcacommunications.com/wp-content/uploads/2018/01/hgtv.png" ,HGTV hd
+
+
+
+#EXTINF:-1        tvg-logo="http://www.orcacommunications.com/wp-content/uploads/2018/01/hgtv.png" ,HGTV
+https://nonton.site:8443/IGRKg9OA4w/hshjs45678khtsdj/37416
+
+
+#EXTINF:-1        tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/FYI%2C_logo.svg" ,fyi
+http://ky-tv.cc:80/toyota18/toyota18/175859.ts
+
+
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://i.ibb.co/N3sSBtz/hjff.png" ,DMAX
+https://nonton.site:8443/IGRKg9OA4w/hshjs45678khtsdj/37417
+
+
+#EXTINF:-1 ,SONY BBC EARTH FHD
+http://58.27.219.166:8000/play/a04s/index.m3u8
+
+#EXTINF:-1      tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" , NGW HD
+https://nonton.site:8443/IGRKg9OA4w/hshjs45678khtsdj/37388
+
+#EXTINF:-1      tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" , ngw US 4k
+http://new-pro.tv:8080/4474494445842022/Nadim2022/95707
+
+
+
+..........................................................................
+
+.........................................music,..............................
+
+
+#EXTINF:-1 ,1mus
+http://cdn.ayproviders.xyz:80/eWTzp0Lluo/80457wNClw/16891
+
+#EXTINF:-1 tvg-id="mtv" tvg-name="MTV LIVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/1200px-MTV_Live_HD_2017_logo.svg.png" parent-code="",MTV
+https://nonton.site:8443/IGRKg9OA4w/hshjs45678khtsdj/37419
+
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8PKgbNxd/MTV-BIGGEST.png" ,MTV BIGGEST POP
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_375.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/VkHWJ9w9/MTV-YO.png" ,MTV YO!
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/htG04ykP/MTV-BLOCK-PARTY.png" ,MTV BLOCK PARTY
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+
+
+#EXTINF:-1 ,SHOWBOX HINDI 
+http://webo.asia:80/play/5LB9kAR3p7Gs2VJ8vTg2Y7G07v3xd2UYuUkKWudrHIw/ts
+...................................................................................
+
+
+SPORTS..................................................................
+
+
+#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" , EGG TV 
+http://210.210.155.35:80/uq2663/h/h22/01.m3u8
+#EXTINF:-1 tvg-id="eGG.MACAN" tvg-name="eGG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png" ,eGG Network
+https://nonton.site:8443/IGRKg9OA4w/hshjs45678khtsdj/37421
+
+#EXTINF:-1     tvg-logo="https://resources.redbull.com/logos/redbullcom/v3/redbullcom-logo.svg" parent-code="", REDBULL FHD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+
+
+#EXTINF:-1 ,unifi sport 1
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#EXTINF:-1      rtm sukan
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+
+
+#EXTINF:-1 ,ARENA HD
+http://mvu03.wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF122678&password=8ZXDQCZR&stream=71102
+#EXTINF:-1 ,ARENA HD
+http://my.odtv.uk/streaming/clients_live.php?extension=m3u8&username=1159189903&password=4938860969&stream=124
+
+#EXTINF:-1 tvg-id="Arena" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" parent-code="",Astro Arena HD
+https://nonton.site:8443/IGRKg9OA4w/hshjs45678khtsdj/37422
+#EXTINF:-1 tvg-id="Arena" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" parent-code="",Astro Arena HD 
+http://iptv.tvmalaysia.cc:80/174726/174726/8926
+#EXTINF:-1 tvg-id="Arena" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" parent-code="",Astro Arena HD 
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6707
+
+#EXTINF:-1 , sony six
+http://jo123.biz/jweb/m3u8.php?c=Six_HD&q=1200&e=junk.m3u8
+
+
+#EXTINF:-1      tvg-logo="  tinyurl.com/y2ncvbzp " parent-code="",Arena 2
+http://iptv.tvmalaysia.cc:80/174726/174726/9028
+
+
+
+#EXTINF:-1      tvg-logo=" tinyurl.com/y5e43yn8  " parent-code="",ASTRO SUPERSPORT HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6708
+
+#EXTINF:-1      tvg-logo="  tinyurl.com/y5e43yn8 " parent-code="",ASTRO SUPERSPORT 1
+http://iptv.tvmalaysia.cc:80/174726/174726/9024
+
+#EXTINF:-1      tvg-logo=" tinyurl.com/y5e43yn8  " parent-code="",ASTRO SUPERSPORT 2 HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6710
+
+#EXTINF:-1      tvg-logo=" tinyurl.com/y5e43yn8  " parent-code="",ASTRO SUPERSPORT 2
+http://iptv.tvmalaysia.cc:80/174726/174726/9025
+
+#EXTINF:-1      tvg-logo=" tinyurl.com/y5e43yn8  " parent-code="",ASTRO SUPERSPORT 3 HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6711
+
+#EXTINF:-1      tvg-logo=" tinyurl.com/y5e43yn8  " parent-code="",ASTRO SUPERSPORT 3 (LIVE EPL ONLY)
+http://iptv.tvmalaysia.cc:80/174726/174726/9020
+
+#EXTINF:-1      tvg-logo=" tinyurl.com/y5e43yn8  " parent-code="",ASTRO SUPERSPORT 4 HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6712
+
+#EXTINF:-1      tvg-logo=" tinyurl.com/y5e43yn8  " parent-code="",ASTRO SUPERSPORT 4 HD
+http://iptv.tvmalaysia.cc:80/174726/174726/9026
+
+#EXTINF:-1      tvg-logo="  tinyurl.com/y5e43yn8 " parent-code="",Astro Supersport 5
+http://iptv.tvmalaysia.cc:80/174726/174726/9029
+
+#EXTINF:-1      tvg-logo="  tinyurl.com/y5e43yn8 " parent-code="",Astro Supersport 5
+
+#EXTINF:-1      tvg-logo="" parent-code="",FOX Sports 3 HD
+
+
+#EXTINF:-1    ,  beIN MAX
+http://iptv.tvmalaysia.cc:80/174726/174726/6748
+
+#EXTINF:-1    ,  beIN MAX 2
+http://iptv.tvmalaysia.cc:80/174726/174726/7195
+
+#EXTINF:-1   ,   WWE Network
+http://iptv.tvmalaysia.cc:80/174726/174726/6849
+
+#EXTINF:-1   ,   TSN 1
+http://iptv.tvmalaysia.cc:80/174726/174726/8923
+
+#EXTINF:-1    ,  TSN 2
+http://iptv.tvmalaysia.cc:80/174726/174726/8924
+
+
+
+#EXTINF:-1   ,   TSN 3
+
+#EXTINF:-1    ,  BT Sport 1
+
+#EXTINF:-1   ,   BT Sport 2
+http://iptv.tvmalaysia.cc:80/174726/174726/6611
+
+#EXTINF:-1   ,   BT Sport 3
+#EXTINF:-1  ,    UK: Sky Sports F1
+
+#EXTINF:-1    ,  LFC TV
+http://iptv.tvmalaysia.cc:80/174726/174726/7237
+
+............................
+.....RADIO.............................................................
+..........................
+
+#EXTM3U
+
+
+
+#EXTINF:-1, hotfm
+https://mediaprima.rastream.com/mediaprima-hotfm.android
+
+#EXTINF:-1, mix fm
+https://astro2.rastream.com/mix
+
+
+#EXTINF:-1, kelantan fm
+https://kelantanfmmobile.secureswiftcontent.com/rtm-ch032/rtm-ch032/chunklist.m3u8
+
+
+
+#EXTINF:-1, sinar
+https://astro2.rastream.com/sinar
+
+
+
+#EXTINF:-1, thr gegar
+https://astro3.rastream.com/gegar
+
+
+
+#EXTINF:-1, era
+https://astro2.rastream.com/amp-era-kk
+
+
+#EXTINF:-1  parent-code="", fly
+https://mediaprima.rastream.com/mediaprima-flyfm.android
+
+
+
+#EXTINF:-1, hitz
+
+https://astro1.rastream.com/hitz
+
+
+
+#EXTINF:-1  parent-code="https://dengar.suria.my" ,sinar
+https://22253.live.streamtheworld.com/SURIA_FMAAC.aac
