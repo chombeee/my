@@ -31,10 +31,8 @@ https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 #EXTINF:-1 tvg-chno="2" tvg-id="tv2" tvg-name="tv2" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/PlayerLogo-TV2-May2021.png" parent-code="https://rtmklik.rtm.gov.my" parent-code="",TV 2
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
-
-#EXTINF:-1 tvg-chno="3" tvg-id="tv3" tvg-name="tv3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" parent-code="" parent-code="", TV3 
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142507.m3u8
-
+EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3 
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142507.m3u8 
 
 
 #EXTINF:-1 tvg-chno="4" tvg-id="ntv7" tvg-name="didiktv" tvg-logo="https://didik.tv/images/logotv2.png" parent-code="https://dailymotion.com" parent-code="",DidikTV KPM
