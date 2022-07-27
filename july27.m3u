@@ -82,10 +82,8 @@ https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142668.m3u8
 
 
-
 #EXTINF:-1 tvg-id="astrowarna.my" tvg-name="ASTRO Warna HD" tvg-logo="http://tvmalaysia.cc:80/images/5a747afe7e6d8f0963590d0c63ae9a5c.png" parent-code="",ASTRO Warna HD
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142670.m3u8
-
 
 
 #EXTINF:-1 tvg-id="astro prima" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" parent-code="", Astro Prima HD
@@ -283,8 +281,8 @@ https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/1506
 .....cartonn..............................................
 ...........................................................
 
-#EXTINF:-1,tvg-logo=" jpeg.ly/T25L  " parent-code="",ASTRO Ceria HD
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142672.m3u8
+#EXTINF:-1,tvg-logo=" jpeg.ly/T25L  " parent-code="",ASTRO Ceria
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157481
  
 
 
