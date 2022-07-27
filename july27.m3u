@@ -31,7 +31,7 @@ https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 #EXTINF:-1 tvg-chno="2" tvg-id="tv2" tvg-name="tv2" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/PlayerLogo-TV2-May2021.png" parent-code="https://rtmklik.rtm.gov.my" parent-code="",TV 2
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3 
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142507.m3u8 
 
 
@@ -68,34 +68,34 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 
 #EXTINF:-1 tvg-id="awesome tv" parent-code="",awesome tv
-http://139.99.90.11:80/live/1159189903/4938860969/175.ts 
+
 
 #EXTINF:-1 tvg-id="alhijrah" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png" parent-code="",TV AlHijrah
-https://my.odtv.uk:443/live/9486331171/7860879594/24.ts 
+
 
 
 
 #EXTINF:-1 tvg-id="astrooasis.my" tvg-name="ASTRO Oasis HD" tvg-logo="http://tvmalaysia.cc:80/images/1025207519df6b585f285d5324f5e5c1.png" parent-code="",ASTRO Oasis HD
-https://nonton.site:8443/IGRKg9OA4w/hshjs45678khtsdj/37334
 
 
 #EXTINF:-1 tvg-id="astro ria" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717a" parent-code="", Astro Ria
-http://139.99.90.11:80/live/1159189903/4938860969/13.ts 
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142668.m3u8
 
 
 
 #EXTINF:-1 tvg-id="astrowarna.my" tvg-name="ASTRO Warna HD" tvg-logo="http://tvmalaysia.cc:80/images/5a747afe7e6d8f0963590d0c63ae9a5c.png" parent-code="",ASTRO Warna HD
-https://my.odtv.uk/live/9486331171/7860879594/18.ts 
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142670.m3u8
 
 
 
 #EXTINF:-1 tvg-id="astro prima" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" parent-code="", Astro Prima HD
-http://139.99.90.11:80/live/1159189903/4938860969/16.ts 
+
 
 
 
 #EXTINF:-1 tvg-id="astro citra" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png" parent-code="", Astro Citra
-http://139.99.90.11/live/1159189903/4938860969/19.ts
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8
+
 ...........................................................
 ..... chinese korea and japan....................................
  ..................................................................
@@ -109,11 +109,10 @@ http://210.210.155.35/uq2663/h/h143/01.m3u8
 
 
 #EXTINF:-1 tvg-id="kbs world" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/kbs%20world.png" parent-code="", KBS World HD
-https://nonton.site:8443/IGRKg9OA4w/hshjs45678khtsdj/37369
+
 
 
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Ohkchannel.png" parent-code="", Oh!K HD
-https://nonton.site:8443/IGRKg9OA4w/hshjs45678khtsdj/37371
 
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/K_Plus_Asia_Logo.jpg/250px-K_Plus_Asia_Logo.jpg",Kplus
@@ -314,7 +313,7 @@ http://mykingtv.net:2082/streaming/clients_live.php?extension=rtmp&username=zeeh
 ...........................................................
 
 #EXTINF:-1,tvg-logo=" jpeg.ly/T25L  " parent-code="",ASTRO Ceria HD
- http://139.99.90.11:80/live/1159189903/4938860969/99.ts 
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142672.m3u8
  
 
 
@@ -355,7 +354,7 @@ http://210.210.155.35:80/dr9445/h/h144/01.m3u8
 
 
 #EXTINF:-1      tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" parent-code="",Aniplus
-http://210.210.155.35/dr9445/h/h02/01.m3u8?checkedby:iptvcat.com
+http://210.210.155.35/dr9445/h/h02/01.m3u8
 
 
 
