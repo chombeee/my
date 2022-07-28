@@ -83,7 +83,7 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142668.m3u8
 
 
 #EXTINF:-1 tvg-id="astrowarna.my" tvg-name="ASTRO Warna HD" tvg-logo="http://tvmalaysia.cc:80/images/5a747afe7e6d8f0963590d0c63ae9a5c.png" parent-code="",ASTRO Warna HD
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142670.m3u8
+https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
 
 
 #EXTINF:-1 tvg-id="astro prima" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" parent-code="", Astro Prima HD
@@ -99,15 +99,16 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8
  
 
  
-
-#EXTINF:-1 tvg-id="SonyOneHD.MACAN" tvg-name="SonyOneHD.MACAN"  tvg-logo="https://cdn.macan.tv/img/sonyone.png", Sony One
-http://210.210.155.35/uq2663/h/h143/01.m3u8
-
-
-
-#EXTINF:-1 tvg-id="kbs world" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/kbs%20world.png" parent-code="", KBS World HD
+#EXTINF:-1 tvg-id="ONE" ch-number="393" group-title="Korea" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png",ONE HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ba8842e119ee61ac7c613e1e6a1e3e10&key=46ed2370a8cc4cef2665e03e110f9455
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
 
 
+#EXTINF:-1 tvg-id="KBSWorld" ch-number="392" group-title="Korea" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/161_144.png",KBS World HD AstGO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=76ac661111eadf6ffde0dcdbd16fcb10&key=24b391c868de298804403a024e6ce7de
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
 
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Ohkchannel.png" parent-code="", Oh!K HD
 
@@ -115,6 +116,12 @@ http://210.210.155.35/uq2663/h/h143/01.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/K_Plus_Asia_Logo.jpg/250px-K_Plus_Asia_Logo.jpg",Kplus
 #EXTVLCOPT:network-caching=10007777
 http://210.210.155.35/uq2663/h/h08/index.m3u8
+
+#EXTINF:-1 tvg-id="OPPA MANIA" group-title="Korea" ch-number="100" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OppaMania_V1.png",100 OPPA MANIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5078
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5078/default_primary.mpd
+
 
 
  ...............tvn........................
@@ -126,8 +133,10 @@ http://210.210.155.35:80/dr9445/h/h21/01.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" , TVN
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/767
+#EXTINF:-1 tvg-id="tvN" ch-number="395" group-title="Korea" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/395.png",395 tvN HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=c1269a58571f4528d585fdccbf8fa510&key=615d2dcc24a8fa6a7342185a6fcb1615
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
 
 
 .......................tvn..............................
@@ -177,13 +186,24 @@ http://210.210.155.35/uq2663/h/h19/01.m3u8
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/2156
 
 
-#EXTINF:-1 ,BOO
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2407
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/BOO_v1.png",BOO
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" , THRILL
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/4
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5054
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png",Showcase Movies
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5056
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Paramount.png",Paramount Network
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_ott.mpd
 
 
 
@@ -206,8 +226,10 @@ https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/210
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446380_ico.png", HBO Signature HD
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/873
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png", HBO Family HD
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/592
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5053
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Family.png",HBO Family
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png", HBO Family USA 4K
 
@@ -260,8 +282,10 @@ https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/1506
  
 ...............................................................
 
-#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" , AXN
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2303
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AXN_v1.png" ,AXN
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
 
 #EXTINF:-1 ,WARNER TV 
 
@@ -282,6 +306,12 @@ https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/1506
  
 #EXTINF:-1 ,Astro Ceria
 https://nonton.site:8443/mustakim/mustakim/37399
+
+#EXTINF:-1 ,Astro Ceria
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/TA-DAA!.png",TA-DAA!
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5024/default_ott.mpd
 
 #EXTINF:-1 ,Disney XD
 
@@ -402,68 +432,45 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 ,unifi sport 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202108/20210811/20210811161847362lc0.png",Unifi Sport 2
+https://unifi-live04.secureswiftcontent.com/UnifiHD/live12.mpd
+
 #EXTINF:-1      rtm sukan
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 
 
-
-#EXTINF:-1 ,ARENA HD
-
-#EXTINF:-1 tvg-id="Arena" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" parent-code="",Astro Arena HD
-
-#EXTINF:-1 tvg-id="Arena" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" parent-code="",Astro Arena HD 
-
-#EXTINF:-1 tvg-id="Arena" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" parent-code="",Astro Arena HD 
-
-#EXTINF:-1 , sony six
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2604
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png",Astro Arena 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 
 
-#EXTINF:-1      tvg-logo="  tinyurl.com/y2ncvbzp " parent-code="",Arena 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5057
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png",Astro Arena 2
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 
 
-#EXTINF:-1      tvg-logo=" tinyurl.com/y5e43yn8  " parent-code="",ASTRO SUPERSPORT HD
-
-#EXTINF:-1      tvg-logo="  tinyurl.com/y5e43yn8 " parent-code="",ASTRO SUPERSPORT 1
-
-#EXTINF:-1      tvg-logo=" tinyurl.com/y5e43yn8  " parent-code="",ASTRO SUPERSPORT 2 HD
-
-#EXTINF:-1      tvg-logo=" tinyurl.com/y5e43yn8  " parent-code="",ASTRO SUPERSPORT 2
-
-#EXTINF:-1      tvg-logo=" tinyurl.com/y5e43yn8  " parent-code="",ASTRO SUPERSPORT 3 HD
-
-#EXTINF:-1      tvg-logo=" tinyurl.com/y5e43yn8  " parent-code="",ASTRO SUPERSPORT 3 (LIVE EPL ONLY)
-
-#EXTINF:-1      tvg-logo=" tinyurl.com/y5e43yn8  " parent-code="",ASTRO SUPERSPORT 4 HD
-
-#EXTINF:-1      tvg-logo=" tinyurl.com/y5e43yn8  " parent-code="",ASTRO SUPERSPORT 4 HD
-
-#EXTINF:-1      tvg-logo="  tinyurl.com/y5e43yn8 " parent-code="",Astro Supersport 5
-
-#EXTINF:-1      tvg-logo="  tinyurl.com/y5e43yn8 " parent-code="",Astro Supersport 5
-
-#EXTINF:-1      tvg-logo="" parent-code="",FOX Sports 3 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb9d78b1c5776744014935bb3fe4ea10&key=0dc6d298bc48c0de11dc6bf9ede30323
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro Supersport Plus
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default_primary.mpd
 
 
-#EXTINF:-1    ,  beIN MAX
-
-#EXTINF:-1    ,  beIN MAX 2
-
-#EXTINF:-1   ,   WWE Network
-
-#EXTINF:-1   ,   TSN 1
-
-#EXTINF:-1    ,  TSN 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7d2ba38cc488e535fa42059493357c10&key=c48de9b1683be561fa63ab547391975d
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png",BEIN SPORTS 2
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_primary.mpd
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ec837724b4265d2e127e65c542aee410&key=0ce930620687ab1df1cf6544f2dc0013
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png",BEIN SPORTS 3
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
 
-#EXTINF:-1   ,   TSN 3
 
-#EXTINF:-1    ,  BT Sport 1
-
-#EXTINF:-1   ,   BT Sport 2
-
-#EXTINF:-1   ,   BT Sport 3
-#EXTINF:-1  ,    UK: Sky Sports F1
-
-#EXTINF:-1    ,  LFC TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=782f32d9501ac50dfd783671ade95210&key=9690dcf2368b1664680a8099125ccca9
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/WWE_v1.png",WWE NETWORK
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
