@@ -115,22 +115,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
 
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Ohkchannel.png" parent-code="", Oh!K HD
 
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/K_Plus_Asia_Logo.jpg/250px-K_Plus_Asia_Logo.jpg",Kplus
-#EXTVLCOPT:network-caching=10007777
-http://210.210.155.35/uq2663/h/h08/index.m3u8
-
-#EXTINF:-1 tvg-id="OPPA MANIA"  ch-number="100" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OppaMania_V1.png",OPPA MANIA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5078
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5078/default_primary.mpd
-
-
-
- ...............tvn........................
-
-
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=4667aa2bb9d080471f43e03d40868c10&key=116db8fda0a62355cf24c6acb6aab03d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tvn%20movies.png", tvN Movies HD
@@ -141,20 +125,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=c1269a58571f4528d585fdccbf8fa510&key=615d2dcc24a8fa6a7342185a6fcb1615
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
-
-
-.......................tvn..............................
-
-
-#EXTINF:-1 tvg-id="GEMChannel.id" tvg-name="GEMChannel.id"  tvg-logo="https://cdn.macan.tv/img/gem.jpg", Sony GEM TV
-http://210.210.155.35/uq2663/h/h19/01.m3u8
-
-
-..................................
-...........keling .....................
-..............................
-
-
 
 ...................
 ....................................................................................................................................................
@@ -189,25 +159,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2407
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/BOO_v1.png",BOO
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
-
 #EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" , THRILL
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/4
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5054
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png",Showcase Movies
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5056
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Paramount.png",Paramount Network
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_ott.mpd
-
 
 
 ..............................................................
@@ -229,34 +182,14 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd
 
 
 ..........................KIX......................
+
 #EXTINF:-1 tv-name="KIX" tvg-logo="https://lh4.googleusercontent.com/rEyGX_KF3Jg067QL_BjdzWqvtO8hg5KaEAjuQtVruTz_yxx2AHLyEQ2uJ9cSrOaN3SwmIX-EeqK4F9E3eQPylyHjrepnoElcRapfXNMbDT6O4hZgHs9poe0IADZUwZ2SAw=w1280", KIX 
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/8
 
 
 
-
-...........................................................
-
-...................fox...................................
-
-
-.....................................................
-......................................................
-
-
-
-
-EXTINF:-1 ,primetime
-
-#EXTINF:-1 ,paramount
-
-#EXTINF:-1 ,Galaxy Premium
-
-
- 
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/blue-ant-extreme-ca.png" ,Blue Ant Extreme
-http://210.210.155.35:80/dr9445/h/h15/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Extreme HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" ,Blue Ant Extreme HD
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/811
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/blue-ant-entertainment-ca.png" ,BlueAnt Entertainment HD
@@ -289,30 +222,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5024/default_ott.mpd
 
 
-#EXTINF:-1 ,Disney XD
-
-#EXTINF:-1 ,Disney Channel
-
-
-#EXTINF:-1 ,Disney Junior
-
-
 #EXTINF:-1 tvg-id="Nickelodeon.MACAN" tvg-name="Nickelodeon" tvg-logo="https://i.ibb.co/JsWTZhx/fz.png" ,Nickelodeon
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37404
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2408
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Boomerang_Logo.png", Boomerang HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2408/default_ott.mpd
-
-
-#EXTINF:-1 ,Dreamwork
-
-#EXTINF:-1      tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/330px-Cartoon_Network_2010_logo.svg.png" , CARTOON NTWK HD
-
-
-#EXTINF:-1 tvg-id="" tvg-name="MY - NICK JR" tvg-logo="" ,NICK JR
 
 #EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/hHCyN9t/ig.png" ,Cartoon Network
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/680
@@ -348,21 +259,7 @@ http://210.210.155.35/dr9445/h/h02/01.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/DIY_Network_logo.svg/876px-DIY_Network_logo.svg.png" parent-code="",DIY Network HD
 
 
-#EXTINF:-1        tvg-logo="http://www.orcacommunications.com/wp-content/uploads/2018/01/hgtv.png" ,HGTV hd
 
-
-
-#EXTINF:-1        tvg-logo="http://www.orcacommunications.com/wp-content/uploads/2018/01/hgtv.png" ,HGTV
-
-
-#EXTINF:-1        tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/FYI%2C_logo.svg" ,fyi
-
-
-#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://i.ibb.co/N3sSBtz/hjff.png" ,DMAX
-
-
-
-#EXTINF:-1 ,SONY BBC EARTH FHD
 
 #EXTINF:-1      tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" , NGW HD
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/97
