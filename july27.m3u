@@ -32,7 +32,7 @@ https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3 
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142507.m3u8 
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="4" tvg-id="ntv7" tvg-name="didiktv" tvg-logo="https://didik.tv/images/logotv2.png" parent-code="https://dailymotion.com" parent-code="",DidikTV KPM
@@ -42,7 +42,7 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 
 
 #EXTINF:-1 tvg-chno="9" tvg-id="tv9" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149.png" parent-code="https://dailymotion.com" parent-code="",TV9
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
 
 
 
@@ -51,8 +51,6 @@ https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 
 
 
-#EXTINF:-1 tvg-chno="7" tvg-id="drama sangat" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg" parent-code="https://dailymotion.com" parent-code="",Drama Sangat
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 
 
 #EXTINF:-1 tvg-chno="8" tvg-id="okey" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotvokay.jpg" parent-code="https://rtmklik.rtm.gov.my" parent-code="",Tv Okey
@@ -64,35 +62,7 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="berita rtm" tvg-name="beritartm" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" parent-code="https://rtmklik.rtm.gov.my" parent-code="",Berita RTM
-https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 
-#EXTINF:-1 tvg-id="awesome tv" parent-code="",awesome tv
-
-
-#EXTINF:-1 tvg-id="alhijrah" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png" parent-code="",TV AlHijrah
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",Astro Ria HD
-https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-989/585053174
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7b65e3d6ee807842a109821fba96b510&key=7827b9cf05fda4c3b77f48dea0acfa48
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Astro_Oasis_2019.png/revision/latest?cb=20190111152636",ASTRO OASIS HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
-
-#EXTINF:-1 tvg-id="astrowarna.my" tvg-name="ASTRO Warna HD" tvg-logo="http://tvmalaysia.cc:80/images/5a747afe7e6d8f0963590d0c63ae9a5c.png" parent-code="",ASTRO Warna HD
-https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
-
-
-#EXTINF:-1 tvg-id="astro prima" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" parent-code="", Astro Prima HD
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37333
-
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra HD
-https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142671
 
 
 
@@ -200,8 +170,8 @@ https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/1506
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b7f352ff63e533f3baa950d7e2497410&key=e11de6f5f84bbd2f150ffc82191880e8
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png",AXN
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png",animax
+https://liveaneviadev.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 
 
@@ -211,7 +181,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
  
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39b114b7ebecd9d4a7f1c797dd885b10&key=8d2be29307bb382c8c6c286cc9cd07c6
+#KODIPROP:inputstream.adaptive.license_key=	https://mc.yandex.ru/watch/81472444?page-url=https%3A%2F%2Fhola.org%2Funinstall%3Fref%3Dbe_ext_uninstall%26tfi_lt_15min%3D1&charset=utf-8&hittoken=1674522373_87fb7918377a9dc3ae2934e8d874335d8b8e2d62516f458af405c4bc18b71ab2&browser-info=nb%3A1%3Acl%3A237%3Aar%3A1%3Avf%3Asm0eap24hzlr84c06sesn%3Afu%3A0%3Aen%3Autf-8%3Ala%3Aen-MY%3Av%3A960%3Acn%3A1%3Adp%3A1%3Als%3A1169054580758%3Ahid%3A855349632%3Az%3A480%3Ai%3A20230124090635%3Aet%3A1674522395%3Ac%3A1%3Arn%3A112325115%3Arqn%3A6%3Au%3A16745205491056877079%3Aw%3A1739x828%3As%3A1739x979x24%3Ask%3A1.1041666269302368%3Awv%3A2%3Ads%3A%2C%2C%2C%2C%2C%2C%2C%2C%2C3560%2C3560%2C0%2C%3Aco%3A0%3Acpf%3A1%3Aeu%3A0%3Ans%3A1674522371634%3Aadb%3A1%3App%3A3629563401%3Arqnl%3A1%3Ast%3A1674522395&t=gdpr(14)mc(p-1-up-1-ci-1)clc(0-0-0)rqnt(3)lt(39200)aw(0)ti(0)&force-urlencoded=1
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png",Astro Ceria HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
  
@@ -248,21 +218,6 @@ http://210.210.155.35/dr9445/h/h02/01.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="MY - FOOD NTWK HD" tvg-logo="" , FOOD NTWK HD
-
-
-#EXTINF:-1 tvg-id="AsianFoodChannel.MACAN" tvg-name="AFC" tvg-logo="https://i.ibb.co/7RPffnd/sjt.png" ,ASIAN FOOD NETWORK FHD
-
-
-#EXTINF:-1 tvg-id="AsianFoodChannel.MACAN" tvg-name="AFC" tvg-logo="https://i.ibb.co/7RPffnd/sjt.png" ,ASIAN FOOD NETWORK
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/DIY_Network_logo.svg/876px-DIY_Network_logo.svg.png" parent-code="",DIY Network HD
-
-
-
-
-#EXTINF:-1      tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" , NGW HD
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/97
 
 
 ..........................................................................
