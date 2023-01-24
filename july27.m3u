@@ -56,28 +56,6 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
  ..................................................................
  
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="NATIONAL TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TVOne
-https://liveaneviadev.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
-
-
-#EXTINF:-1 tvg-id="KBSWorld" ch-number="392" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/161_144.png",KBS World
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=76ac661111eadf6ffde0dcdbd16fcb10&key=24b391c868de298804403a024e6ce7de
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
-
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Ohkchannel.png" parent-code="", Oh!K HD
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=4667aa2bb9d080471f43e03d40868c10&key=116db8fda0a62355cf24c6acb6aab03d
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tvn%20movies.png", tvN Movies HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
-
-
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/395.png",tvN HD
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://liveaneviadev.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
 ...................
 ....................................................................................................................................................
@@ -85,69 +63,17 @@ https://liveaneviadev.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
  ............MOVIES SERIES............
  ...............................
  ....................................................................................................................................................
-#
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09e9d9037bbc6d4eac45bdee4b718b10&key=05db97174848670a152d0b15f3dab994
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png",BOO
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e95c72a41b5ea9957b07facd95542410&key=a5e0de041ca2766754a37952b3468eb2
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png",SHOWCASE MOVIES
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=eaaa02f58d19457c6385bf2831706f10&key=7294ff05390550e09df76ef3b697f8da
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/PRIMEtime.png",PRIMETIME
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default_ott.mpd
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1b0fbb95b8d4ab19d3ea816be9683310&key=560e1ef299aa9a4352e70ed14f8839b9
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png",CINEMAX
-http://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
-
-
-#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" , THRILL
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/4
 
 
 ..............................................................
 
 ............HBO....................
 
-#EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",HBO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=897aa91ee5958140b5ebd8076cced310&key=453b01beb73c78bd6f8ad380f8a06a8e
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/ASTRO/hbosignature.png",HBO SIGNATURE HD
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142740	
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8cfb499a75630eca1d50e584f58e9310&key=0a11d637ad2eaa1f7a75f42b7fc72b30
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png",HBO FAMILY
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd
 
 
 ..........................KIX......................
 
-#EXTINF:-1 tv-name="KIX" tvg-logo="https://lh4.googleusercontent.com/rEyGX_KF3Jg067QL_BjdzWqvtO8hg5KaEAjuQtVruTz_yxx2AHLyEQ2uJ9cSrOaN3SwmIX-EeqK4F9E3eQPylyHjrepnoElcRapfXNMbDT6O4hZgHs9poe0IADZUwZ2SAw=w1280", KIX 
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Extreme HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" ,Blue Ant Extreme HD
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/811
-
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/blue-ant-entertainment-ca.png" ,BlueAnt Entertainment HD
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/1506
- 
  
 ...............................................................
 
@@ -163,34 +89,11 @@ https://liveaneviadev.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 .....cartonn..............................................
  
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=	https://mc.yandex.ru/watch/81472444?page-url=https%3A%2F%2Fhola.org%2Funinstall%3Fref%3Dbe_ext_uninstall%26tfi_lt_15min%3D1&charset=utf-8&hittoken=1674522373_87fb7918377a9dc3ae2934e8d874335d8b8e2d62516f458af405c4bc18b71ab2&browser-info=nb%3A1%3Acl%3A237%3Aar%3A1%3Avf%3Asm0eap24hzlr84c06sesn%3Afu%3A0%3Aen%3Autf-8%3Ala%3Aen-MY%3Av%3A960%3Acn%3A1%3Adp%3A1%3Als%3A1169054580758%3Ahid%3A855349632%3Az%3A480%3Ai%3A20230124090635%3Aet%3A1674522395%3Ac%3A1%3Arn%3A112325115%3Arqn%3A6%3Au%3A16745205491056877079%3Aw%3A1739x828%3As%3A1739x979x24%3Ask%3A1.1041666269302368%3Awv%3A2%3Ads%3A%2C%2C%2C%2C%2C%2C%2C%2C%2C3560%2C3560%2C0%2C%3Aco%3A0%3Acpf%3A1%3Aeu%3A0%3Ans%3A1674522371634%3Aadb%3A1%3App%3A3629563401%3Arqnl%3A1%3Ast%3A1674522395&t=gdpr(14)mc(p-1-up-1-ci-1)clc(0-0-0)rqnt(3)lt(39200)aw(0)ti(0)&force-urlencoded=1
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png",Astro Ceria HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
- 
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6b398595696c2d609a8a1c3dc27af710&key=cf14a926974812acaadcc2c986f7ed4d
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TA-DAA!.png",TA-DAA!
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5024/default_ott.mpd
-
-
-#EXTINF:-1 tvg-id="Nickelodeon.MACAN" tvg-name="Nickelodeon" tvg-logo="https://i.ibb.co/JsWTZhx/fz.png" ,Nickelodeon
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37404
-
-#EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/hHCyN9t/ig.png" ,Cartoon Network
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/680
 
 
 
 
 
-#EXTINF:-1 tvg-id="Ani.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428081_ico.png" ,ANIMAX
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/3
-
-
-#EXTINF:-1      tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" parent-code="",Aniplus
-http://210.210.155.35/dr9445/h/h02/01.m3u8
 
 
 
@@ -209,9 +112,6 @@ http://210.210.155.35/dr9445/h/h02/01.m3u8
 
 
 
-#EXTINF:-1 tvg-id="mtv" tvg-name="MTV LIVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/1200px-MTV_Live_HD_2017_logo.svg.png" parent-code="",MTV
-
-
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8PKgbNxd/MTV-BIGGEST.png" ,MTV BIGGEST POP
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_375.m3u8
@@ -225,63 +125,3 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 
 ...............................................................SPORTS..................................................................
 
-
-#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" , EGG TV
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37421
-
-#EXTINF:-1 tvg-id="eGG.MACAN" tvg-name="eGG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png" ,eGG Network
-
-#EXTINF:-1     tvg-logo="https://resources.redbull.com/logos/redbullcom/v3/redbullcom-logo.svg" parent-code="", REDBULL FHD
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/200px-Sukan_RTM_1_April.png",RTM Sukan
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://rtmlive02tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
-https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
-
-#EXTINF:-1 ,unifi sport 1
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
-
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202108/20210811/20210811161847362lc0.png",Unifi Sport 2
-https://unifi-live04.secureswiftcontent.com/UnifiHD/live12.mpd
-
-#EXTINF:-1      rtm sukan
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2604
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png",Astro Arena 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5057
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png",Astro Arena 2
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb9d78b1c5776744014935bb3fe4ea10&key=0dc6d298bc48c0de11dc6bf9ede30323
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro Supersport Plus
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default_primary.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7d2ba38cc488e535fa42059493357c10&key=c48de9b1683be561fa63ab547391975d
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png",BEIN SPORTS 2
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_primary.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ec837724b4265d2e127e65c542aee410&key=0ce930620687ab1df1cf6544f2dc0013
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png",BEIN SPORTS 3
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=782f32d9501ac50dfd783671ade95210&key=9690dcf2368b1664680a8099125ccca9
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/WWE_v1.png",WWE NETWORK
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
