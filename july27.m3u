@@ -23,43 +23,28 @@
 
 
 
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/711 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 
+HD http://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 
-#EXTINF:-1 tvg-chno="1" tvg-id="tv1" tvg-name="TV1" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/PlayerLogo-TV1-May21-JPG.jpg" parent-code="https://rtmklik.rtm.gov.my" parent-code="",TV 1
-https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5027 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png",TV2 HD 
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 
-
-#EXTINF:-1 tvg-chno="2" tvg-id="tv2" tvg-name="tv2" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/PlayerLogo-TV2-May2021.png" parent-code="https://rtmklik.rtm.gov.my" parent-code="",TV 2
-https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3 
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
-
-
-#EXTINF:-1 tvg-chno="4" tvg-id="ntv7" tvg-name="didiktv" tvg-logo="https://didik.tv/images/logotv2.png" parent-code="https://dailymotion.com" parent-code="",DidikTV KPM
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
-
-
 
 
 #EXTINF:-1 tvg-chno="9" tvg-id="tv9" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149.png" parent-code="https://dailymotion.com" parent-code="",TV9
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
 
 
-
-#EXTINF:-1 tvg-chno="6" tvg-id="tv6" tvg-logo="https://mediahomes.github.io/logos/tv6.png" parent-code="https://rtmklik.rtm.gov.my" parent-code="",TV6
-https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
-
-
-
-
-
-#EXTINF:-1 tvg-chno="8" tvg-id="okey" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotvokay.jpg" parent-code="https://rtmklik.rtm.gov.my" parent-code="",Tv Okey
-https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
-
-
 #EXTINF:-1 tvg-id="awani" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428094_ico.png" parent-code="awanitv.akamaized.net" parent-code="", Astro Awani 
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
 
 
 
@@ -73,9 +58,7 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
  
 #EXTINF:-1 tvg-id="ONE" ch-number="393" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png",ONE HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ba8842e119ee61ac7c613e1e6a1e3e10&key=46ed2370a8cc4cef2665e03e110f9455
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
+https://liveaneviadev.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 
 #EXTINF:-1 tvg-id="KBSWorld" ch-number="392" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/161_144.png",KBS World
