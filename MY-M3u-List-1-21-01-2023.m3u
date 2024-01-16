@@ -1,28 +1,5 @@
 
 
-#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml"
-
-#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/rtmklik.xml"
-
-#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/mytv.xml"
-
-#EXTM3U x-tvg-url="https://bit.ly/aqfadtvepg"
-
-#EXTM3U x-tvg-url="https://epg.kampung.xyz/"
-
-#EXTM3U x-tvg-url="https://epg.kampung.xyz/IPTV.xml.gz"
-
-#EXTM3U x-tvg-url="https://github.com/apollo2000/TVGuide/raw/master/utc.xml.gz"
-
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/vidio.com.guide.xml"
-
-#EXTM3U x-tvg-url="http://tvku.live:8888/xmltv.php?username=epg&password=epg"
-
-#EXTM3U x-tvg-url="https://macan.tv/xmltv.php?username=epg&password=epg"
-
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml"
-
-
 
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 HD
@@ -36,8 +13,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=
 
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3 
-
-
 https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/live.isml/.m3u8
 
 
